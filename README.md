@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Currency Converter Website**
 
-- 🌱 I’m currently learning **ASP.NET Core Blazor and Data Analysis at UCT**
+- 🌱 I’m currently learning **ASP.NET Core Blazor and learning Salesforce**
 
 - 👨‍💻 All of my projects are available at [GitHub.com/RonaRea](GitHub.com/RonaRea)
 
-- 📫 How to reach me **reabetswe03@gmail.com**
+- 📫 How to reach me **reabetswerona03@gmail.com**
 
 - ⚡ Fun fact **I'm a spontaneous out goer🚀**
 
